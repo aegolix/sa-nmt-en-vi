@@ -3,7 +3,10 @@ KeTran's sa-nmt on 2015 iwslt English-Vietnamese corpora and GPU training.
 
 The model's source code is credited to the legend himself: https://github.com/ketranm/sa-nmt
 
-Commands to train and perform translation are written in Google colab notebooks. The correct directory is as followed:
+Commands to train and perform translation are written in Google colab notebooks. Trained models can be downloaded at http://bit.ly/3cJz9D6 since Github restricts file size.
+
+
+The correct directory is as followed:
 
 --sa-nmt-en-vi
 
