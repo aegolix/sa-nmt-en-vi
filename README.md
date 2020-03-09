@@ -22,6 +22,6 @@ Commands to train and perform translation are written in Google colab notebooks.
 
 To sucessfully run, some minor syntax changes must be taken care.
 
-To train on GPU, TreeAttention constructor's orch.device must be changed from 'cpu' to 'cuda:0'
+To train on GPU, TreeAttention constructor's torch.device must be changed from 'cpu' to 'cuda:0'
 
 Current model BLEUs are 23.36/24.61 (VI-EN) and 26.85/27.01 (EN-VI) compared to 2015 iwslt baselines. The breakdown of the author's model and example translated results can be found in **docs/**
