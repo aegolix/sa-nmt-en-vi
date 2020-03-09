@@ -8,7 +8,10 @@ Commands to train and perform translation are written in Google colab notebooks.
 +sa-nmt-en-vi
 
 +++++sa-nmt
-+++++
+
++++++<Google colab files>
+
+
 
 
 To sucessfully run, some minor syntax changes must be taken care.
