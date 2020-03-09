@@ -5,19 +5,19 @@ The model's source code is credited to the legend himself: https://github.com/ke
 
 Commands to train and perform translation are written in Google colab notebooks. The correct directory is as followed:
 
-+sa-nmt-en-vi
+--sa-nmt-en-vi
 
-+++++sa-nmt
+-----sa-nmt
 
-++++++++++iwslt
+--------iwslt
 
-++++++++++model.bpe
+--------model.bpe
 
-++++++++++model.txt
+--------model.txt
 
-++++++++++model_best.pt
+--------model_best.pt
 
-+++++**[Google colab files]**
+-----**[Google colab files]**
 
 
 To sucessfully run, some minor syntax changes must be taken care.
